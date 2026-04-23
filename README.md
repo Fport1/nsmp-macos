@@ -1,0 +1,2 @@
+# nsmp-macos
+Modpack
